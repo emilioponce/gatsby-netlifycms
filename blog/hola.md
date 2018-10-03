@@ -1,6 +1,6 @@
 ---
-path: /perobueno
-date: 2018-10-03T16:21:05.425Z
-title: hola
+path: /hola2
+date: 2018-10-08T16:21:05.425Z
+title: Segon article de prova
 ---
-adiós
+Hola adeu
