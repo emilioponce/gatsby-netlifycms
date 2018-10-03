@@ -12,4 +12,4 @@ Create markdown content in Gatsby by using Netlify CMS.
 
 ## Admin interface
 
-http://domain/admin/
+<https://domain/admin/>
